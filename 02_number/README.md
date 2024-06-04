@@ -9,10 +9,10 @@ test:
 test: 
    number = 42.555;
 
-## 0203 - Write a program that checks if a given number is an integer or not.
+<!-- ## 0203 - Write a program that checks if a given number is an integer or not.
 test:
    num1 = 42;
-   num2 = 42.5
+   num2 = 42.5 -->
 
 ## 0204 - Write a program that converts a string containing a number to an integer
 text: 
