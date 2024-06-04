@@ -8,13 +8,7 @@ Expected Output:
 Rudra IT Hub
 
 
-## 0102-length of a String - Write a program to find a lenght of a string and disply lenthg when program run/executed.
-
-Test Data:
-Input the string: Welcome to Rudra IT Hub
-
-Expected Output:
-Length of the string is : 23
+c
 
 
 ## 0103-join a string - Write a program to join two string.
@@ -25,12 +19,12 @@ String2 = “World”
 Expected Output :
 print(“Hello World”)
 
-## 0104 - write a program print getting the first element of the String.
+<!-- ## 0104 - write a program print getting the first element of the String.
 
 Test Data :
 Input the string : Hello 
 Expected Output :
-Length of the string is : H
+Length of the string is : H -->
 
 ## 0105 - write a program separate individual characters from a string.
 
