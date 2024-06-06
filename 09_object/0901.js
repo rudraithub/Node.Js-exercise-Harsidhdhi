@@ -24,4 +24,4 @@
 //  const student = new person('john', 30 , 'new york')
 
 //       console.log(student);
-   
+   // 0902

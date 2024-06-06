@@ -12,4 +12,3 @@
 //  const student = new person('john', 30 , 'new york',' engenear')
 
 //       console.log(student);
-   
